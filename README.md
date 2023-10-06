@@ -7,7 +7,9 @@ The website should be visually appealing and easy to navigate, while also provid
 relevant information about you and your background. 
 The site should be built entirely with HTML and CSS, with no JavaScript code included.
 
+
 Deliverables
+
 One HTML file for the structure of the website
 
 One CSS file for the styling of the website
